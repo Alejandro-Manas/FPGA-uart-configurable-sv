@@ -1,0 +1,104 @@
+[15000] StARTING SEQUENCE: Byte in: 01111110. Baud rate: 000, Parity bit mode: 00
+[15000] Initial state: IDLE.
+[35000] ASSERT PASSED: Start Bit, state correct
+[35000] ASSERT PASSED: Available to send correct
+[104183000] ASSERT PASSED: Byte Send, state correct
+[937463000] ASSERT PASSED: Byte Send correctly
+[937463000] ASSERT PASSED: Stop Bit, state correct
+[1041623000] ASSERT PASSED: Idle, state correct
+[1041623000] ASSERT PASSED: Available to send correct
+[1041630000] StARTING SEQUENCE: Byte in: 01111110. Baud rate: 010, Parity bit mode: 01
+[1041630000] Initial state: IDLE.
+[1041650000] ASSERT PASSED: Start Bit, state correct
+[1041650000] ASSERT PASSED: Available to send correct
+[1067638000] ASSERT PASSED: Byte Send, state correct
+[1275638000] ASSERT PASSED: Byte Send correctly
+[1275638000] ASSERT PASSED: Parity Bit, state correct
+[1275638000] ASSERT PASSED: Parity Bit correct.
+[1301638000] ASSERT PASSED: Stop Bit, state correct
+[1327638000] ASSERT PASSED: Idle, state correct
+[1327638000] ASSERT PASSED: Available to send correct
+[1327645000] StARTING SEQUENCE: Byte in: 01111110. Baud rate: 001, Parity bit mode: 01
+[1327645000] Initial state: IDLE.
+[1327665000] ASSERT PASSED: Start Bit, state correct
+[1327665000] ASSERT PASSED: Available to send correct
+[1379733000] ASSERT PASSED: Byte Send, state correct
+[1796373000] ASSERT PASSED: Byte Send correctly
+[1796373000] ASSERT PASSED: Parity Bit, state correct
+[1796373000] ASSERT PASSED: Parity Bit correct.
+[1848453000] ASSERT PASSED: Stop Bit, state correct
+[1900533000] ASSERT PASSED: Idle, state correct
+[1900533000] ASSERT PASSED: Available to send correct
+[1900540000] StARTING SEQUENCE: Byte in: 01111110. Baud rate: 100, Parity bit mode: 10
+[1900540000] Initial state: IDLE.
+[1900560000] ASSERT PASSED: Start Bit, state correct
+[1900560000] ASSERT PASSED: Available to send correct
+[1909188000] ASSERT PASSED: Byte Send, state correct
+[1978308000] ASSERT PASSED: Byte Send correctly
+[1978308000] ASSERT PASSED: Parity Bit, state correct
+[1978308000] ASSERT PASSED: Parity Bit correct.
+[1986948000] ASSERT PASSED: Stop Bit, state correct
+[1995588000] ASSERT PASSED: Idle, state correct
+[1995588000] ASSERT PASSED: Available to send correct
+[1995595000] StARTING SEQUENCE: Byte in: 01111110. Baud rate: 111, Parity bit mode: 00
+[1995595000] Initial state: IDLE.
+[1995615000] ASSERT PASSED: Start Bit, state correct
+[1995615000] ASSERT PASSED: Available to send correct
+[2099763000] ASSERT PASSED: Byte Send, state correct
+[2933043000] ASSERT PASSED: Byte Send correctly
+[2933043000] ASSERT PASSED: Stop Bit, state correct
+[3037203000] ASSERT PASSED: Idle, state correct
+[3037203000] ASSERT PASSED: Available to send correct
+[3037210000] StARTING SEQUENCE: Byte in: 01111100. Baud rate: 000, Parity bit mode: 00
+[3037210000] Initial state: IDLE.
+[3037230000] ASSERT PASSED: Start Bit, state correct
+[3037230000] ASSERT PASSED: Available to send correct
+[3141378000] ASSERT PASSED: Byte Send, state correct
+[3974658000] ASSERT PASSED: Byte Send correctly
+[3974658000] ASSERT PASSED: Stop Bit, state correct
+[4078818000] ASSERT PASSED: Idle, state correct
+[4078818000] ASSERT PASSED: Available to send correct
+[4078825000] StARTING SEQUENCE: Byte in: 01111100. Baud rate: 010, Parity bit mode: 01
+[4078825000] Initial state: IDLE.
+[4078845000] ASSERT PASSED: Start Bit, state correct
+[4078845000] ASSERT PASSED: Available to send correct
+[4104833000] ASSERT PASSED: Byte Send, state correct
+[4312833000] ASSERT PASSED: Byte Send correctly
+[4312833000] ASSERT PASSED: Parity Bit, state correct
+[4312833000] ASSERT PASSED: Parity Bit correct.
+[4338833000] ASSERT PASSED: Stop Bit, state correct
+[4364833000] ASSERT PASSED: Idle, state correct
+[4364833000] ASSERT PASSED: Available to send correct
+[4364840000] StARTING SEQUENCE: Byte in: 01111100. Baud rate: 001, Parity bit mode: 01
+[4364840000] Initial state: IDLE.
+[4364860000] ASSERT PASSED: Start Bit, state correct
+[4364860000] ASSERT PASSED: Available to send correct
+[4416928000] ASSERT PASSED: Byte Send, state correct
+[4833568000] ASSERT PASSED: Byte Send correctly
+[4833568000] ASSERT PASSED: Parity Bit, state correct
+[4833568000] ASSERT PASSED: Parity Bit correct.
+[4885648000] ASSERT PASSED: Stop Bit, state correct
+[4937728000] ASSERT PASSED: Idle, state correct
+[4937728000] ASSERT PASSED: Available to send correct
+[4937735000] StARTING SEQUENCE: Byte in: 01111100. Baud rate: 100, Parity bit mode: 10
+[4937735000] Initial state: IDLE.
+[4937755000] ASSERT PASSED: Start Bit, state correct
+[4937755000] ASSERT PASSED: Available to send correct
+[4946383000] ASSERT PASSED: Byte Send, state correct
+[5015503000] ASSERT PASSED: Byte Send correctly
+[5015503000] ASSERT PASSED: Parity Bit, state correct
+[5015503000] ASSERT PASSED: Parity Bit correct.
+[5024143000] ASSERT PASSED: Stop Bit, state correct
+[5032783000] ASSERT PASSED: Idle, state correct
+[5032783000] ASSERT PASSED: Available to send correct
+[5032790000] StARTING SEQUENCE: Byte in: 01111100. Baud rate: 111, Parity bit mode: 00
+[5032790000] Initial state: IDLE.
+[5032810000] ASSERT PASSED: Start Bit, state correct
+[5032810000] ASSERT PASSED: Available to send correct
+[5136958000] ASSERT PASSED: Byte Send, state correct
+[5970238000] ASSERT PASSED: Byte Send correctly
+[5970238000] ASSERT PASSED: Stop Bit, state correct
+[6074398000] ASSERT PASSED: Idle, state correct
+[6074398000] ASSERT PASSED: Available to send correct
+[6074460000] ASSERT PASSED: It does not accepts a new byte when sending another, as expected
+$finish called at time : 6074465 ns : File "/home/alejandro/Escritorio/Artix_7/uart_sysverilog_config/uart_sysverilog_config.srcs/SIM/new/tx_sim.sv" Line 222
