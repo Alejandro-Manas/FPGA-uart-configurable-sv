@@ -1,0 +1,26 @@
+[120000] Clear functionality works as expexted.
+[120000] Begining test at 9600 bauds.
+[6658000] Test passed succesfully
+[13168000] Test passed succesfully
+[13168000] Begining test at 1920 bauds.
+[16453000] Test passed succesfully
+[19708000] Test passed succesfully
+[19708000] Begining test at 38400 bauds.
+[21363000] Test passed succesfully
+[22988000] Test passed succesfully
+[22988000] Begining test at 57600 bauds.
+[24103000] Test passed succesfully
+[25188000] Test passed succesfully
+[25188000] Begining test at 115200 bauds.
+[25758000] Test passed succesfully
+[26298000] Test passed succesfully
+[26298000] Not valid value for baud_rate selector. Begining test at 9600 bauds for default.
+[32838000] Test passed succesfully
+[39348000] Test passed succesfully
+[39348000] Not valid value for baud_rate selector. Begining test at 9600 bauds for default.
+[45888000] Test passed succesfully
+[52398000] Test passed succesfully
+[52398000] Not valid value for baud_rate selector. Begining test at 9600 bauds for default.
+[58938000] Test passed succesfully
+[65448000] Test passed succesfully
+$finish called at time : 65447500 ps : File "/home/alejandro/Escritorio/Artix_7/uart_sysverilog_config/uart_sysverilog_config.srcs/SIM/new/baud_gen_sim.sv" Line 117
