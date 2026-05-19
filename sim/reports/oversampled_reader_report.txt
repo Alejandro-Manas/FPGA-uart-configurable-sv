@@ -1,0 +1,13 @@
+[175000] ASSERT PASSED: Read functionality working when not active
+[415000] ASSERT PASSED: Read functionality working when active
+[665000] ASSERT PASSED: Data ready working as expected
+[665000] ASSERT PASSED: Data out correct
+[835000] ASSERT PASSED: Data ready working as expected
+[835000] ASSERT PASSED: Data out correct
+[1005000] ASSERT PASSED: Data ready working as expected
+[1005000] ASSERT PASSED: Data out correct
+[1175000] ASSERT PASSED: Data ready working as expected
+[1175000] ASSERT PASSED: Data out correct
+[1345000] ASSERT PASSED: Data ready working as expected
+[1345000] ASSERT PASSED: Data out correct
+$finish called at time : 2150 ns : File "/home/alejandro/Escritorio/Artix_7/uart_sysverilog_config/uart_sysverilog_config.srcs/SIM/new/oversampled_reader_sim.sv" Line 137
