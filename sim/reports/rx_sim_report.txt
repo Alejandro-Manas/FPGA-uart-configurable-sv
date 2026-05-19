@@ -1,0 +1,24 @@
+[50000] Simulation      115200 bauds test. No parity. No errors in comunication.
+[120000] RX state correct(START_BIT).
+[8840000] RX state correct(READ_BYTE).
+[78600000] RX state correct(STOP_BIT).
+[86493000] Byte ready active.
+[86493000] Byte valid working as expected.
+[86493000] Byte recieved correctly.
+[86493000] Simulation        9600 bauds test. No parity. No errors in comunication.
+[86563000] RX state correct(START_BIT).
+[190723000] RX state correct(READ_BYTE).
+[1024003000] RX state correct(PARITY_BIT).
+[1128163000] RX state correct(STOP_BIT).
+[1232293000] Byte ready active.
+[1232293000] Byte valid working as expected.
+[1232293000] Byte recieved correctly.
+[1232293000] Simulation      115200 bauds test. No parity. No errors in comunication.
+[1232363000] RX state correct(START_BIT).
+[1241083000] RX state correct(READ_BYTE).
+[1310843000] RX state correct(PARITY_BIT).
+[1319563000] RX state correct(STOP_BIT).
+[1327373000] Byte ready active.
+[1327373000] Byte valid working as expected.
+[1327373000] Byte recieved correctly.
+$finish called at time : 1327372500 ps : File "/home/alejandro/Escritorio/Artix_7/uart_sysverilog_config/uart_sysverilog_config.srcs/SIM/new/rx_sim.sv" Line 205
